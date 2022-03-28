@@ -1,4 +1,4 @@
-CLAMP_11: Convection only
+CLAMP_11: Respiration and Convection only
 
 Mesh: super coarse mesh (2688 cells)
 OpenFOAM version: 9
